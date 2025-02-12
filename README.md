@@ -59,6 +59,6 @@ e47a830b009bbe47ee38382c51bb761c
 ```
 
 ## Authors
+Tural Alakbarov
 
-Developed with ❤️ for convenient weather planning!
 
